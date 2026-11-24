@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>平和学・平和教育 毎朝1本</title>
+    <link>https://mutayu16.github.io/pl-feed-7k3q9x</link>
+    <language>ja</language>
+    <description>平和教育・平和学の重要論文を、パラグラフごとに高校生にもわかるように解説する個人用ポッドキャスト</description>
+    <itunes:author>Yuichiro</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>接続テスト（本番の論文ではありません）</title>
+      <description>接続テスト（本番の論文ではありません）（論文パラグラフ 1-2）</description>
+      <guid isPermaLink="false">connection-test-p1</guid>
+      <pubDate>Tue, 24 Nov 2026 07:01:44 +0000</pubDate>
+      <enclosure url="https://mutayu16.github.io/pl-feed-7k3q9x/audio/connection-test-p1.mp3" length="464348" type="audio/mpeg"/>
+      <itunes:duration>77</itunes:duration>
+    </item>
+  </channel>
+</rss>
