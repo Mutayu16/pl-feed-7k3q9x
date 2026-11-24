@@ -11,9 +11,9 @@
     <item>
       <title>ガルトゥング1969「暴力、平和、平和研究」全文解説</title>
       <description>ガルトゥング1969「暴力、平和、平和研究」全文解説（論文パラグラフ 1-43）</description>
-      <guid isPermaLink="false">galtung-1969-p1</guid>
+      <guid isPermaLink="false">galtung-1969-p1-r2</guid>
       <pubDate>Tue, 24 Nov 2026 08:07:01 +0000</pubDate>
-      <enclosure url="https://mutayu16.github.io/pl-feed-7k3q9x/audio/galtung-1969-p1.mp3" length="20758124" type="audio/mpeg"/>
+      <enclosure url="https://mutayu16.github.io/pl-feed-7k3q9x/audio/galtung-1969-p1.mp3?v=20758124" length="20758124" type="audio/mpeg"/>
       <itunes:duration>3459</itunes:duration>
     </item>
     <item>
@@ -21,7 +21,7 @@
       <description>接続テスト（本番の論文ではありません）（論文パラグラフ 1-2）</description>
       <guid isPermaLink="false">connection-test-p1</guid>
       <pubDate>Tue, 24 Nov 2026 07:01:44 +0000</pubDate>
-      <enclosure url="https://mutayu16.github.io/pl-feed-7k3q9x/audio/connection-test-p1.mp3" length="464348" type="audio/mpeg"/>
+      <enclosure url="https://mutayu16.github.io/pl-feed-7k3q9x/audio/connection-test-p1.mp3?v=464348" length="464348" type="audio/mpeg"/>
       <itunes:duration>77</itunes:duration>
     </item>
   </channel>
