@@ -7,7 +7,8 @@
     <description>平和教育・平和学の重要論文を、パラグラフごとに高校生にもわかるように解説する個人用ポッドキャスト</description>
     <itunes:author>Yuichiro</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:block>Yes</itunes:block>
+    <itunes:image href="https://mutayu16.github.io/pl-feed-7k3q9x/cover.png"/>
+    <itunes:category text="Education"/>
     <item>
       <title>ガルトゥング1969「暴力、平和、平和研究」全文解説</title>
       <description>ガルトゥング1969「暴力、平和、平和研究」全文解説（論文パラグラフ 1-43）</description>
