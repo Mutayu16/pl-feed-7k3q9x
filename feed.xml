@@ -9,6 +9,14 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>ガルトゥング1969 第1回：平和という言葉と、暴力の定義の入口</title>
+      <description>ガルトゥング1969 第1回：平和という言葉と、暴力の定義の入口（論文パラグラフ 1-12）</description>
+      <guid isPermaLink="false">galtung-1969-p1</guid>
+      <pubDate>Tue, 24 Nov 2026 07:17:35 +0000</pubDate>
+      <enclosure url="https://mutayu16.github.io/pl-feed-7k3q9x/audio/galtung-1969-p1.mp3" length="10299692" type="audio/mpeg"/>
+      <itunes:duration>1716</itunes:duration>
+    </item>
+    <item>
       <title>接続テスト（本番の論文ではありません）</title>
       <description>接続テスト（本番の論文ではありません）（論文パラグラフ 1-2）</description>
       <guid isPermaLink="false">connection-test-p1</guid>
